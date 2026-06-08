@@ -1,0 +1,24 @@
+Nimbus Commerce Platform
+
+Cloud-native microservices application demonstrating:
+
+• Linux Administration
+• Shell Scripting
+• AWS Infrastructure
+• Terraform
+• Ansible
+• Systemd
+• Networking
+• Monitoring
+• Troubleshooting
+• Infrastructure Automation
+
+Architecture:
+User → Route53 → EC2 → Frontend → Catalogue → User → Cart → Shipping → Payment
+
+Related Repositories:
+- Nimbus Linux Automation
+- Nimbus Infrastructure Automation
+- Nimbus Config Management
+- Nimbus Service Deployment
+- Nimbus Multi Environment IaC
